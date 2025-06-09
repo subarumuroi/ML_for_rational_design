@@ -1,0 +1,40 @@
+# Ignore raw and processed data files
+data/raw/*
+data/processed/*
+
+# Keep readme files
+!data/raw/README.md
+!data/processed/README.md
+
+# Ignore raw and processed data files
+data/raw/*
+data/processed/*
+
+# Keep readme files
+!data/raw/README.md
+!data/processed/README.md
+
+# Ignore Python cache and compiled files
+__pycache__/
+# Ignore raw and processed data files
+data/raw/*
+data/processed/*
+
+# Keep readme files
+!data/raw/README.md
+!data/processed/README.md
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+.venv/
+env/
+
+# Ignore macOS system files
+.DS_Store
+
