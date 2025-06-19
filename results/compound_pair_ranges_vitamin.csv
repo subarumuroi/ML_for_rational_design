@@ -1,0 +1,29 @@
+Compound_1,Compound_2,range
+Biotin,Boric acid,3.42596837615066
+Biotin,Calcium pantothenate,0.33716292111563284
+Biotin,Inositol,3.3010314298757106
+Biotin,Nicotinic acid,0.0
+Biotin,Pyridoxine,0.0
+Biotin,Thiamine,0.30102999566398125
+Biotin,para-aminobenzoic acid,1.0
+Boric acid,Calcium pantothenate,3.763131297266293
+Boric acid,Inositol,4.425969810362389
+Boric acid,Nicotinic acid,3.42596837615066
+Boric acid,Pyridoxine,3.42596837615066
+Boric acid,Thiamine,3.4756924476787994
+Boric acid,para-aminobenzoic acid,3.42596837615066
+Calcium pantothenate,Inositol,0.6628385130960974
+Calcium pantothenate,Nicotinic acid,0.33716292111563284
+Calcium pantothenate,Pyridoxine,0.33716292111563284
+Calcium pantothenate,Thiamine,0.28743884958749355
+Calcium pantothenate,para-aminobenzoic acid,1.337162921115632
+Inositol,Nicotinic acid,1.0000014342117294
+Inositol,Pyridoxine,1.0000014342117294
+Inositol,Thiamine,3.047187375691647
+Inositol,para-aminobenzoic acid,2.096909360755161
+Nicotinic acid,Pyridoxine,0.0
+Nicotinic acid,Thiamine,0.04972407152813929
+Nicotinic acid,para-aminobenzoic acid,1.0
+Pyridoxine,Thiamine,0.04972407152813929
+Pyridoxine,para-aminobenzoic acid,1.0
+Thiamine,para-aminobenzoic acid,1.656105436638744
